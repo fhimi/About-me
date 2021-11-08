@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fhimi
+- 👋 Hi, I’m @fhimi-Mohammed
 - 👀 I’m interested in computre engineering 
 - 🌱 I’m currently learning computre engineering 
 - 📫 How to reach me mohamedfhimi5@gmail.com
