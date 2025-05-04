@@ -1,7 +1,5 @@
 # Hello, I'm Fhimi Mohammed 👋
-<p align="center">
-  <img src="https://github.com/yourusername.png" width="150" style="border-radius: 50%;" alt="Your Name" />
-</p><br>
+
 ## About Me
 🎓 Computer Science graduate with a specialization in Business Intelligence, Data Analysis, and Automation.
 🗃️ Proficient in relational and non-relational databases, DAX, and Power BI, with a strong focus on data-driven decision-making and forecasting.
