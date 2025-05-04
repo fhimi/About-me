@@ -1,4 +1,4 @@
-# Hello, I'm Fhimi Mohammed 👋
+### Hello, I'm Fhimi Mohammed 👋
 
 ## About Me
 🎓 Computer Science graduate with a specialization in Business Intelligence, Data Analysis, and Automation.
