@@ -1,5 +1,7 @@
- <h1 style= "text-align: center;">Hello, I'm Fhimi Mohammed 👋</h1>
-
+<div align="center">
+ <h1>Hello, I'm Fhimi Mohammed 👋</h1>
+ <br><br>
+</div>
 ## About Me
 🎓 Computer Science graduate with a specialization in Business Intelligence, Data Analysis, and Automation.
 🗃️ Proficient in relational and non-relational databases, DAX, and Power BI, with a strong focus on data-driven decision-making and forecasting.
@@ -15,7 +17,7 @@
 
 ## 💡 What I Do
 - 🧠 Data Analysis & Visualization using Python, SQL, Power BI  
-- 💾 Database Management with MySQL, PostgreSQL  
+- 💾 Database Management with MySQL, PostgreSQL, Oracle
 - 📊 Machine Learning & Predictive Modeling  
 - 🌐 Building responsive websites and dashboards  
 
@@ -30,8 +32,4 @@
 
 ## 🎉 Fun Fact
 I love listening to music and watching movies! 🎶🎬
-
-## 💬 Ask me about
-- Web Development
-- database administration
 
