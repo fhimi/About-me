@@ -13,6 +13,12 @@
 - **Databases:** relational databses, Non-Relational databases
 - **Tools:** Git, VS Code
 
+## 💡 What I Do
+- 🧠 Data Analysis & Visualization using Python, SQL, Power BI  
+- 💾 Database Management with MySQL, PostgreSQL  
+- 📊 Machine Learning & Predictive Modeling  
+- 🌐 Building responsive websites and dashboards  
+
 ## 🌱 Currently Learning
 - Data science
 - Docker
